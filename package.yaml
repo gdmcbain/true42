@@ -3,12 +3,11 @@ version:             0.1.0.0
 github:              "gdmcbain/true42"
 license:             BSD3
 author:              "G. D. McBain"
-maintainer:          "gmcbain@memjet.com"
+maintainer:          "gdmcbain@protonmail.com"
 copyright:           "(c) 2018 G. D. McBain"
 
 extra-source-files:
 - README.md
-- ChangeLog.md
 
 # Metadata used when publishing your package
 # synopsis:            Short description of your package

@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: bf15aad37e25d1e6f4af8251ab3e895f84a462d69d803411974cdbe9d15707fa
+-- hash: 4f668b01bcc859e9fba403d4d957d42c5d352adbe82ae8398ee1316e56a15ab3
 
 name:           true42
 version:        0.1.0.0
@@ -10,14 +10,13 @@ description:    Please see the README on GitHub at <https://github.com/gdmcbain/
 homepage:       https://github.com/gdmcbain/true42#readme
 bug-reports:    https://github.com/gdmcbain/true42/issues
 author:         G. D. McBain
-maintainer:     gmcbain@memjet.com
+maintainer:     gdmcbain@protonmail.com
 copyright:      (c) 2018 G. D. McBain
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
 cabal-version:  >= 1.10
 extra-source-files:
-    ChangeLog.md
     README.md
 
 source-repository head
